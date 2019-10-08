@@ -39,7 +39,7 @@ main {
 /* non so come allargare i buttom */
 
 #container {
-    color: white;
+    color: black;
     text-decoration:none;
     font-weight: 600;
     font-size: 20px
@@ -50,6 +50,7 @@ main {
 
 
 
+
 }
 
 .email{
@@ -57,6 +58,7 @@ main {
   border-width: 3px;
   border-style: solid;
   border-radius:35px;
+  background-color: lightgrey;
 }
 
 
