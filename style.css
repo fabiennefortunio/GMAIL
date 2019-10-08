@@ -1,0 +1,68 @@
+body {
+    background-image: url(https://www.savisas.com/wp-content/uploads/2014/10/black_background_leather-wallpaper-2400x1350.jpg);
+    background-size: cover;
+
+}
+
+#logo_name {
+    text-transform: uppercase;
+
+
+
+}
+
+main {
+    width: 800px;
+    margin: auto;
+
+}
+
+#logo {
+    width: 50px;
+    vertical-align: middle;
+
+
+}
+
+#logo_name {
+    text-transform: uppercase;
+    color: white;
+
+
+}
+
+#emails {
+    color: white;
+}
+
+
+/* non so come allargare i buttom */
+
+#container {
+    color: white;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+
+
+
+}
+
+.email{
+  border-color: #d8d8d8;
+  border-width: 3px;
+  border-style: solid;
+  border-radius:35px;
+}
+
+
+#footer {
+    color:white;
+    text-align: center;
+
+
+}
